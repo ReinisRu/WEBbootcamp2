@@ -6,6 +6,6 @@ body {
     width: 100px;
   }
   
-  svg;hover {
+  svg:hover {
     fill: blue;
   }
