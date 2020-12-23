@@ -1,11 +1,21 @@
+
+@import url("fonts.css");
+
 body {
-    background: lightsteelblue;
-  }
-  svg {
-    fill: gold;
-    width: 100px;
-  }
+  font-family: Roboto;
+  font-weight: 100;
+  background: #d6f897;
+}
+.bold {
+  font-weight: 700;
+}
+.italic {
+  font-style: italic;
+}
+svg {
+  fill: gold;    width: 100px;
+}
   
-  svg:hover {
-    fill: blue;
-  }
+svg:hover {
+  fill: blue;
+}
